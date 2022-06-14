@@ -1,0 +1,1 @@
+start "" browser-sync start -s -f "*.html,*.js, css/*.css"
